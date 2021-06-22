@@ -19,14 +19,6 @@ Create a project and enable API
 Get Credentials
 > https://developers.google.com/workspace/guides/create-credentials
 
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
